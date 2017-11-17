@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+
+# Compliled files
+lib
+valider

@@ -6,3 +6,8 @@ lib :
 tests : quickSort_util.o
 	# TODO : templacer cette commande par un appel direct aux tests
 	gcc tests/test.c tests/test.h -Wall -o valider
+
+clear :
+	rm valider
+	rm quickSort_util.h.gch
+	rm *.o

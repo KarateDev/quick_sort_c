@@ -21,8 +21,6 @@ Utiliser le makefile fourni.
 
 Ce logiciel est sous licence MIT. Voir [Licence](./LICENSE.md)
 
- ---
-
 
 ## Auteurs
 
