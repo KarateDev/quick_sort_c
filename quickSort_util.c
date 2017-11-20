@@ -1,3 +1,7 @@
+#ifndef QUICKSORT_UTIL
+#include "quickSort_util.h"
+#endif
+
 #include <stdio.h>
 #include <stdlib.h>
 
